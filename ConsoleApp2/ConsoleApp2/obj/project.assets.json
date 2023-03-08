@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mdsha\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\mygitfolder\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\mdsha\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectPath": "C:\\mygitfolder\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\mdsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mdsha\\source\\repos\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\mygitfolder\\ConsoleApp2\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
