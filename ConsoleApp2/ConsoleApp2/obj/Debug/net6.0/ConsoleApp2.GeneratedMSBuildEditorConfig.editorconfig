@@ -9,7 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleApp2
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = C:\mygitfolder\ConsoleApp2\ConsoleApp2\
 =======
 build_property.ProjectDir = C:\new01\ConsoleApp2\ConsoleApp2\
 >>>>>>> dev2
+=======
+build_property.ProjectDir = C:\Users\windows\myproject\ConsoleApp2\ConsoleApp2\
+>>>>>>> dev3

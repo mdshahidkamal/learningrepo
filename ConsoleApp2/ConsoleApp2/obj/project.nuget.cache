@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "MfKvXu929NB63eotAm72GX5YhFAD3fec4zxO1IhWqI7VjOY6SRxJIcUJm2SdPJdM/mwyJwNkDuNqtOd6X5PtGA==",
   "success": true,
   "projectFilePath": "C:\\mygitfolder\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
@@ -9,6 +10,11 @@
   "success": true,
   "projectFilePath": "C:\\new01\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
 >>>>>>> dev2
+=======
+  "dgSpecHash": "7x/aQNPmkKEUFbz4WSnsqD4EiAfgP1Yvd6P3OhK0dASfVxT8NRqkCz5jOVXgj4hqMe/u8iklpxLN0lFi67foLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\windows\\myproject\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+>>>>>>> dev3
   "expectedPackageFiles": [],
   "logs": []
 }
